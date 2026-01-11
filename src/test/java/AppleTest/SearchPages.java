@@ -1,3 +1,5 @@
+package AppleTest;
+
 import com.codeborne.selenide.ElementsCollection;
 
 import static com.codeborne.selenide.Selenide.$$x;

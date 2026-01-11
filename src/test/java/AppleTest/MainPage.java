@@ -1,4 +1,4 @@
-/*
+package AppleTest;/*
 Главная страница
  */
 
